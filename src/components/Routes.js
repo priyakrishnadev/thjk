@@ -8,7 +8,7 @@ import ResetPassword from './ResetPassword';
 import NotFound from './NotFound';
 import {SmartView} from './SmartView';
 import ProductInformation from './ProductInformation';
- // import WebVR from './WebVR';
+ import WebVR from './WebVR';
 import requireAuth from '../utils/requireAuth';
 
 const Routes = () => (
